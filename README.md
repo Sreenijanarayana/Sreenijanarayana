@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreenija Narayana</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenijanarayana&label=Profile%20views&color=0e75b6&style=flat" alt="sreenijanarayana" /> </p>
-
 - 🌱 I’m currently learning **DSA and digging more into Java technologies**
 
 - 💬 Ask me about **Java, Spring boot, Coding**
