@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA and digging more into Java technologies**
 
-- 💬 Ask me about **Java, Spring boot, Coding**
+- 💬 Ask me about **Java | Spring boot | Coding**
 
 - 📫 How to reach me **sreenijanarayana9@gmail.com**
 
