@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreenija Narayana</h1>
+<h1 align="center">Hi 👋, I'm Sreenija Narayanaa</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 - 🌱 I’m currently learning **DSA and digging more into Java technologies**
