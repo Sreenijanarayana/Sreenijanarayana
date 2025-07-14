@@ -6,8 +6,8 @@
 - 💬 Ask me about **Java | Spring boot | Coding**
 
 - 📫 Reach me at:  
-  • **Email** – sreenijanarayana9@gmail.com  
-  • **LinkedIn** – [linkedin.com/in/sreenijanarayana](https://linkedin.com/in/sreenijanarayana)
+  • **Email** – sreenijanarayanaaa@gmail.com  
+  • **LinkedIn** – [linkedin.com/in/sreenijanarayanaa](https://linkedin.com/in/sreenijanarayanaa)
 
 ---
 <h3 align="left">Connect with me:</h3>
